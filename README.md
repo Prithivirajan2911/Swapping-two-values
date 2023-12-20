@@ -43,4 +43,4 @@ swap(a,b)
 ![image](https://github.com/Prithivirajan2911/Swapping-two-values/assets/147020085/be3b18a3-d6e7-4f93-9529-8b18d39ed7de)
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully executed.
