@@ -1,10 +1,14 @@
 # Swapping-two-values
+
 ## AIM:
-To write a python program for swapping of two values
+To write a python program for swapping of two values.
+
 ## EQUIPEMENT'S REQUIRED: 
 PC
 Anaconda - Python 3.7
-## ALGORITHM: 
+
+## ALGORITHM:
+
 ### Step 1:
 Get the two values from the user
 ### Step 2: 
