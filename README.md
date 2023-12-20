@@ -17,11 +17,14 @@ Assign the value in temporary variable to the first variable
 Print both the values it would be interchanged
 ### Step 6: 
 End the program
+
 ## PROGRAM:
 ```
+\*
 # Program to swap two values.
 # Developed by: PRITHIVIRAJAN V 
 # RegisterNumber:23003859
+\*
 def swap(a,b):
     c=a
     a=b
@@ -31,12 +34,9 @@ a=input()
 b=input()
 swap(a,b)
 ```
-## OUTPUT:
-![image](https://github.com/Prithivirajan2911/Swapping-two-values/assets/147020085/1d4709a9-5510-447e-8e69-f00d31dff306)
 
+## OUTPUT:
+![image](https://github.com/Prithivirajan2911/Swapping-two-values/assets/147020085/be3b18a3-d6e7-4f93-9529-8b18d39ed7de)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
-
-
-
